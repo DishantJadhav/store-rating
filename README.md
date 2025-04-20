@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -166,3 +167,6 @@ Validations should be present on all forms:
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+=======
+# store-rating
+>>>>>>> 5b3fac2d6ab6e25a448ad447c3b869e259ee2753
